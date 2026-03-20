@@ -1,10 +1,10 @@
-session_id
-ses-jGCaMP8m+ANM479115+cell01
-ses-jGCaMP8m+ANM479115+cell02
-ses-jGCaMP8m+ANM479115+cell03
-ses-jGCaMP8m+ANM479115+cell04
-ses-jGCaMP8m+ANM479115+cell05
-ses-jGCaMP8m+ANM479115+cell06
-ses-jGCaMP8m+ANM479115+cell07
-ses-jGCaMP8m+ANM479115+cell08
-ses-jGCaMP8m+ANM479115+cell09
+session_id	original_session_id
+ses-jGCaMP8m+ANM479115+cell01	ses-jGCaMP8m_ANM479115_cell01
+ses-jGCaMP8m+ANM479115+cell02	ses-jGCaMP8m_ANM479115_cell02
+ses-jGCaMP8m+ANM479115+cell03	ses-jGCaMP8m_ANM479115_cell03
+ses-jGCaMP8m+ANM479115+cell04	ses-jGCaMP8m_ANM479115_cell04
+ses-jGCaMP8m+ANM479115+cell05	ses-jGCaMP8m_ANM479115_cell05
+ses-jGCaMP8m+ANM479115+cell06	ses-jGCaMP8m_ANM479115_cell06
+ses-jGCaMP8m+ANM479115+cell07	ses-jGCaMP8m_ANM479115_cell07
+ses-jGCaMP8m+ANM479115+cell08	ses-jGCaMP8m_ANM479115_cell08
+ses-jGCaMP8m+ANM479115+cell09	ses-jGCaMP8m_ANM479115_cell09

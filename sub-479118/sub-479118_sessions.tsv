@@ -1,7 +1,7 @@
-session_id
-ses-jGCaMP8m+ANM479118+cell01
-ses-jGCaMP8m+ANM479118+cell02
-ses-jGCaMP8m+ANM479118+cell03
-ses-jGCaMP8m+ANM479118+cell04
-ses-jGCaMP8m+ANM479118+cell05
-ses-jGCaMP8m+ANM479118+cell06
+session_id	original_session_id
+ses-jGCaMP8m+ANM479118+cell01	ses-jGCaMP8m_ANM479118_cell01
+ses-jGCaMP8m+ANM479118+cell02	ses-jGCaMP8m_ANM479118_cell02
+ses-jGCaMP8m+ANM479118+cell03	ses-jGCaMP8m_ANM479118_cell03
+ses-jGCaMP8m+ANM479118+cell04	ses-jGCaMP8m_ANM479118_cell04
+ses-jGCaMP8m+ANM479118+cell05	ses-jGCaMP8m_ANM479118_cell05
+ses-jGCaMP8m+ANM479118+cell06	ses-jGCaMP8m_ANM479118_cell06
